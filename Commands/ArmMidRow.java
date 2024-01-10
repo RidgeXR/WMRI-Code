@@ -8,7 +8,6 @@
 
 // public class ArmMidRow extends CommandBase {
 //   Arm arm;
-  //another comment for spacing
 //   /** Creates a new ArmMidRow. */
 //   public ArmMidRow(Arm a) {
 //     // Use addRequirements() here to declare subsystem dependencies.
